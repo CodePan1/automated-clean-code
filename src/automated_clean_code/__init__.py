@@ -6,6 +6,6 @@ def add_numbers(x: int, y: int) -> int:
       y (int): a number
 
     Returns:
-      (int). The sum of the two numbers.
+      (int). The sum of the two numbers. d
     """
     return x + y
